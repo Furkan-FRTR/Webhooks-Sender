@@ -1,5 +1,4 @@
-Webhook Message Sender
-Webhook Message Sender Logo
+## Webhook Message Sender ##
 
 # Description
 Webhook Sender est un simple script en Python qui vous permet d'envoyer des messages via un webhook à des intervalles spécifiés.
